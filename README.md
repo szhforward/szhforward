@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @szhforward
 - 👀 I’m interested in atmospheric science and physical oceanography.
-- 🌱 I’m currently learning latex and shell coding
+- 🌱 I’m currently learning latex and shell programming language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :2206591312@qq.com
 
